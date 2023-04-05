@@ -1,5 +1,15 @@
 [
     {
+        "id": "irma-demo-requestors.jobdoesburg-demo",
+        "name": {
+            "en": "Job Doesburg Demo",
+            "nl": "Job Doesburg Demo"
+        },
+        "hostnames": [
+            "irma.jobdoesburg.dev"
+        ]
+    },
+    {
         "id": "irma-demo-requestors.ivido",
         "name": {
             "en": "Ivido",
